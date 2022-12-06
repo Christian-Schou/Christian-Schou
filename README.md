@@ -22,7 +22,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/7oSkaaa"><img alt="Christian Schou's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Christian-Schou&custom_title=Christian's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Christian-Schou"><img alt="Christian Schou's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Christian-Schou&custom_title=Christian's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
@@ -30,4 +30,4 @@
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Christian-Schou&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
+<p align="center"> <a href="https://github.com/Christian-Schou"><img src="https://github-profile-trophy.vercel.app/?username=Christian-Schou&layout=compact&theme=algolia" alt="Christian Schou" /></a> </p>
