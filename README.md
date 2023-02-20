@@ -9,7 +9,7 @@
 
 ## :sassy_man:  About me
 - :school: I am a Software Engineer Educated at SDU and UCL in Denmark
-- :trophy: Creator of TWC (Tech with Christian) serving more than 50.000 monthly awesome tech-people
+- :trophy: Creator of TWC (Tech with Christian) serving more than +90.000 monthly awesome tech-people
 - :technologist: I love using Software as a solution for every `problem`
 - :computer: I am an Automation Specialist at `Danoffice IT Aps`
 - :student: I’m currently studying: `Software- and Systems Architecture` and `Cloud Software Engineering`.
