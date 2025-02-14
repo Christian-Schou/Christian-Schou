@@ -6,7 +6,7 @@
 ## :sassy_man:  About me
 - :school: I am a Solution Architect Educated at SDU and UCL in Denmark.
 - :trophy: Creator of TWC (Tech with Christian) serving more than +150.000 monthly awesome tech-people.
-- :technologist: I love using Software as a solution for every `problem`.
+- :technologist: I love using software as a solution for every `problem`.
 - :computer: I am a Solution Architect at `Danoffice IT`.
 - :man_teacher: Currently designing and developing a CLI tool making it easy to learn programming for free!
 - :student: I’m currently studying: `Software- and Systems Architecture` and `Cloud Software Engineering & Architecture`.
