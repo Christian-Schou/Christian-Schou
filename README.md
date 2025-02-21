@@ -4,7 +4,7 @@
 <br>
 
 ## :sassy_man:  About me
-- :school: I am a Solution Architect Educated at SDU and UCL in Denmark.
+- :school: I am a Solution Architect Educated at University of Southern Denmark, SDU and UCL University College in Denmark.
 - :trophy: Creator of TWC (Tech with Christian) serving more than +150.000 monthly awesome tech-people.
 - :technologist: I love using software as a solution for every `problem`.
 - :computer: I am a Solution Architect at `Danoffice IT`.
@@ -14,10 +14,11 @@
 
 <br>
 
-## 👨‍💻 Places I worked
+## 👨‍💻 Places I worked in the past
 - :previous_track_button: I am a former DevOps Engineer at `Mobile Industrial Robots`.
 - :previous_track_button: I am a former Software Engineer at `Danoffice IT`.
 - :previous_track_button: I am a former IT employee at `DDIS`.
+- :previous_track_button: I am a former IT Engineer at `Hesehus A/S`.
 
 
 ## :trophy: Git profile Trophies
