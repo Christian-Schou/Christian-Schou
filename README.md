@@ -4,7 +4,10 @@
 <br>
 
 ## :sassy_man:  About me
-- :school: I am a Solution Architect Educated at University of Southern Denmark, SDU and UCL University College in Denmark.
+- :school: I am a Solution Architect Educated from:
+  -  University of Southern Denmark, SDU.
+  -  UCL University College.
+  -  Danish Technological Institute.
 - :trophy: Creator of TWC (Tech with Christian) serving more than +150.000 monthly awesome tech-people.
 - :technologist: I love using software as a solution for every `problem`.
 - :computer: I am a Solution Architect at `Danoffice IT`.
