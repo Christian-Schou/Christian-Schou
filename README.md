@@ -4,7 +4,7 @@
 <br>
 
 ## :sassy_man:  About me
-- :school: I am a Solution Architect Educated from:
+- :school: I am a Solution Architect Educated at:
   -  University of Southern Denmark, SDU.
   -  UCL University College.
   -  Danish Technological Institute.
